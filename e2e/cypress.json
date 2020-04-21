@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "backendUrl": "http://localhost:9000/api",
+  "viewportWidth": 1200,
+  "viewportHeight": 800,
+  "video": false
+}
