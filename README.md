@@ -6,7 +6,7 @@ In this tutorial I will show you how to use Cypress to write tests for React. We
 
 ### Install
 
-Run npm install in main directory
+Run npm install in main directory and in backend-test directory
 
 ### Video
 
